@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-     <h1>Welcome to Amplify</h1>
+     <h1>Welcome to AWS Amplify</h1>
     </div>
   )
 }
